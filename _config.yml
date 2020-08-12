@@ -104,5 +104,5 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Hjiaooo/hjiaooo.github.io
+  repo: git@github.com:Hjiaooo/hjiaooo.github.io.git
   branch: master
